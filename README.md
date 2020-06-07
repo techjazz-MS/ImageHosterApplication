@@ -17,12 +17,12 @@ Image Hosting Application made using:
 
  |                                                   Test Cases                                                                                        |   Done   |
  |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------|
- | 1. The application runs on localhost and the user is redirected to the landing page of the application displaying all the images in the application.| [x]      |
- | 2. A new user can register in the application by entering the details such as username, password, full name, email address, and mobile number,and after the successful registration, he is redirected to the login page.| [x]      | 
- | 3. The user can log in the application by entering the username and password, and after successful login to the application,        the user is redirected to the user homepage, displaying all the images in the application.| [x]      |  
- | 4. After a user successfully logs in the application, he can click on the title of any image and the image details will be displayed including the description and tags of the image, along with the option to edit and delete the image.| [x]     |
- | 5. A user can also upload the image by entering the details such as image title, description, image file, and tags related to the image.| [x]      |
- | 6. Upload an image with exact same title.| [x]      | 
- | 7. Only owner can edit/delete an image which is posted by him/her.| [x]      | 
- | 8. The password entered by the user must contain at least 1 alphabet (a-z or A-Z), 1 number (0-9) and 1 special character (any character other than a-z, A-Z and 0-9).| [x]      |
- | 9. Users can comment on any of the posts.| [x]      | 
+ | 1. The application runs on localhost and the user is redirected to the landing page of the application displaying all the images in the application.| :heavy_check_mark:      |
+ | 2. A new user can register in the application by entering the details such as username, password, full name, email address, and mobile number,and after the successful registration, he is redirected to the login page.| :heavy_check_mark:     | 
+ | 3. The user can log in the application by entering the username and password, and after successful login to the application,        the user is redirected to the user homepage, displaying all the images in the application.| :heavy_check_mark:      |  
+ | 4. After a user successfully logs in the application, he can click on the title of any image and the image details will be displayed including the description and tags of the image, along with the option to edit and delete the image.| :heavy_check_mark:     |
+ | 5. A user can also upload the image by entering the details such as image title, description, image file, and tags related to the image.| :heavy_check_mark:      |
+ | 6. Upload an image with exact same title.| :heavy_check_mark:      | 
+ | 7. Only owner can edit/delete an image which is posted by him/her.| :heavy_check_mark:      | 
+ | 8. The password entered by the user must contain at least 1 alphabet (a-z or A-Z), 1 number (0-9) and 1 special character (any character other than a-z, A-Z and 0-9).| :heavy_check_mark:     |
+ | 9. Users can comment on any of the posts.| :heavy_check_mark:      | 
