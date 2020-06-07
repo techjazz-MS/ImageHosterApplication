@@ -1,6 +1,6 @@
 # ImageHosterApplication
 
-Image Hosting Application made using Java 8, Spring-boot, Hibernate and Postgresql
+Image Hosting Application made using:
 
 | Java v8 | SpringBoot_MVC Platform | Hibernate | Database: Postgresql | 
 |---------|-------------------------|-----------|----------------------|
